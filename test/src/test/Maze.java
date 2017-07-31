@@ -13,7 +13,7 @@ import java.util.function.BiConsumer;
 public class Maze {
 
     /**
-     * 迷宮を作って表示する。aaaaaaaaaaaa
+     * 迷宮を作って表示する。aaaaaaaaaaaaaaaaaaaaaaaa
      *
      * @param args コマンド引数
      */
